@@ -42,7 +42,7 @@ Let’s connect and collaborate on building high-quality, user-centric solutions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/abheethasma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/janidu-imesh-589049292" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/abheetha-dhananjaya-419957282](https://www.linkedin.com/in/abheetha-dhananjaya-419957282/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/janidu-imesh-589049292" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janidu_imesh" height="30" width="40" /></a>
 </p>
 
