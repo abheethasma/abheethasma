@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Abheetha Dhananjaya</h1>
 
-<h3 align="center">I'm a passionate and driven data science enthusiast with a knack for transforming complex data into actionable insights.</h3>
+<h3 align="center">I'm a dedicated and detail-oriented professional passionate about quality assurance, user experience design, and data administration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janiduimesh&label=Profile%20views&color=0e75b6&style=flat" alt="janiduimesh" /> </p>
 
