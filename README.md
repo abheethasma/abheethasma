@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Janidu Imesh</h1>
+<h1 align="center">Hi 👋, I'm Abheetha Dhananjaya</h1>
 
 <h3 align="center">I'm a passionate and driven data science enthusiast with a knack for transforming complex data into actionable insights.</h3>
 
@@ -17,25 +17,35 @@
 <h3 align="left">About Me:</h3>
 
 
-💻 *Data Science Enthusiast*: Skilled in building and optimizing predictive models, from traditional ML algorithms to deep learning architectures.
+# 🚀 Tech Enthusiast
 
-📊 *Project Experience*: Recently worked on projects ranging from data analysis and prediction to neural networks for classification tasks.
+Passionate about ensuring high-quality software, designing intuitive user experiences, and managing data efficiently.
 
-🧠 *Technical Skills*: Proficient in Python, TensorFlow, and Scikit-Learn, with experience in using Streamlit for web app development and Conda for package management.
+## 🔍 Quality Assurance
+- Experienced in software testing methodologies, bug tracking, and automation tools to enhance software reliability.
 
-🌱 *Learning*: Improving my skills in big data processing and focusing on domain-specific summarizations using BERT and BART.
+## 🎨 UI/UX Design
+- Skilled in creating user-friendly interfaces, wireframing, and prototyping using Figma and Adobe XD to enhance user engagement.
 
-🎯 *Career Goal*: Seeking an internship where I can apply my data science skills in a real-world setting and contribute to meaningful projects that drive organizational success.
+## 📊 Data Administration
+- Proficient in database management, data validation, and ensuring data integrity using SQL and NoSQL databases.
 
-Let’s connect and explore how data can solve real-world problems!
+## 🌱 Learning
+- Expanding knowledge in usability testing, accessibility design, and advanced data visualization techniques.
+
+## 🎯 Career Goal
+Seeking an opportunity to apply my skills in quality assurance, UI/UX, and data administration to improve product performance and user satisfaction.
+
+Let’s connect and collaborate on building high-quality, user-centric solutions! 🚀
+
 
 <hr>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/janidu-imesh-589049292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/janidu-imesh-589049292" height="30" width="40" /></a>
-<a href="https://instagram.com/janidu_imesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janidu_imesh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abheethasma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/janidu-imesh-589049292" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janidu_imesh" height="30" width="40" /></a>
 </p>
 
 <hr>
