@@ -56,5 +56,5 @@ Let’s connect and collaborate on building high-quality, user-centric solutions
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janiduimesh&" alt="janiduimesh" /></p>
+
 
