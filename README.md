@@ -1,8 +1,8 @@
-<div align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/abheethasma/abheethasma/blob/main/tenor.gif?raw=true">
-    <img src="https://github.com/abheethasma/abheethasma/blob/main/tenor.gif?raw=true" width="180" style="display: inline-block;">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+Developer;UI%2FUX+Enthusiast;Open-Source+Contributor;Tech+Writer" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 <h1 align="center">Hi 👋, I'm Abheetha Dhananjaya</h1>
 
