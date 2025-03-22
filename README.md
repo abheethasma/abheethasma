@@ -1,6 +1,6 @@
 <div align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true">
-    <img src="https://github.com/janiduimesh/janiduimesh/blob/main/tenor.gif?raw=true" width="180" style="display: inline-block;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/abheethasma/abheethasma/blob/main/tenor.gif?raw=true">
+    <img src="https://github.com/abheethasma/abheethasma/blob/main/tenor.gif?raw=true" width="180" style="display: inline-block;">
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 <h3 align="center">I'm a dedicated and detail-oriented professional passionate about quality assurance, user experience design, and data administration.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janiduimesh&label=Profile%20views&color=0e75b6&style=flat" alt="janiduimesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abheethasma&label=Profile%20views&color=0e75b6&style=flat" alt="abheethasma" /> </p>
 
 <hr>
 
