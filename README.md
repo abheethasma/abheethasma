@@ -2,6 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Abheetha Dhananjaya&fontSize=60&animation=fadeIn" alt="banner" />
 </div>
 
+<div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/abheethasma/abheethasma/blob/main/[your-gif].gif?raw=true">
+    <img src="https://github.com/abheethasma/abheethasma/blob/main/[your-gif].gif?raw=true" width="200" style="border-radius: 50%; box-shadow: 0 0 15px #00ffcc;" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/abheethasma/abheethasma/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
+</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+Developer;UI%2FUX+Enthusiast;Open-Source+Contributor;Quality+Assurance" alt="Typing SVG" />
