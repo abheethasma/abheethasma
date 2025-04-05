@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Abheetha Dhananjaya&fontSize=60&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=abheethasma&fontSize=60&animation=fadeIn" alt="banner" />
 </div>
 
 <div align="center">
