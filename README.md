@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Abheetha Dhananjaya&fontSize=60&animation=fadeIn" alt="banner" />
+</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+Developer;UI%2FUX+Enthusiast;Open-Source+Contributor;Quality+Assurance" alt="Typing SVG" />
