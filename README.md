@@ -13,37 +13,6 @@
 </div>
 
 ---
-<div align="center">
-
-| | |
-|---|---|
-| **Name** | Abheetha Dhananjaya |
-| **Location** | Sri Lanka 🇱🇰 |
-| **Status** | 🟢 Open to Collaborations |
-
-</div>
-
-<br/>
-
-**🎯 Focus Areas**
-
-![QA](https://img.shields.io/badge/Quality_Assurance-0052CC?style=flat-square&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-F24E1E?style=flat-square&logoColor=white)
-![Data](https://img.shields.io/badge/Data_Administration-316192?style=flat-square&logoColor=white)
-
-**🌱 Currently Learning**
-
-![Usability](https://img.shields.io/badge/Usability_Testing-F7931E?style=flat-square)
-![WCAG](https://img.shields.io/badge/Accessibility_(WCAG)-00897B?style=flat-square&logoColor=white)
-![DataViz](https://img.shields.io/badge/Data_Visualization-7F52FF?style=flat-square&logoColor=white)
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FF6F00?style=flat-square&logoColor=white)
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-ED8B00?style=flat-square&logoColor=white)
-
-**🚀 Goal:** Build high-quality, user-centric solutions
-
-<br clear="right"/>
-
----
 
 ## 🧑‍💻 About Me
 
