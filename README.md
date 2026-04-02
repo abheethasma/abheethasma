@@ -14,8 +14,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abheethasma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" width="420" />
-
 ### 👋 Hi, I'm Abheetha!
 
 ```yaml
@@ -168,14 +166,6 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, **MobileN
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abheethasma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheethasma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="170"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=abheethasma&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="700"/>
 
 </div>
@@ -189,12 +179,6 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, **MobileN
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abheethasma&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" />
-
-</div>
 
 ---
 
