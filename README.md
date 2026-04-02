@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=🔍+Quality+Assurance+Engineer;🎨+UI%2FUX+Designer+%26+Prototyper;📊+Data+Administrator+%26+Analyst;🚀+Open-Source+Contributor;⚡+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=620&lines=🔍+Quality+Assurance+Engineer;🎨+UI%2FUX+Designer+%26+Prototyper;📊+Data+Administrator+%26+Analyst;🚀+Open-Source+Contributor;⚡+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,8 +27,9 @@ focus:
   - Data Administration
 currently_learning:
   - Usability Testing
-  - Accessibility Design
+  - Accessibility Design (WCAG)
   - Advanced Data Visualization
+  - Transfer Learning & MobileNetV2
 goal: Build high-quality, user-centric solutions
 open_to: Collaborations & Opportunities
 ```
@@ -64,7 +65,7 @@ Proficient in database management, data validation, and ensuring data integrity 
 <td width="50%">
 
 ### 🌱 Currently Learning
-Expanding into **usability testing**, **accessibility design (WCAG)**, and **advanced data visualization** techniques to build more inclusive and insightful products.
+Expanding into **usability testing**, **accessibility design (WCAG)**, **MobileNetV2**, and **transfer learning** techniques to build smarter, more inclusive products.
 
 </td>
 </tr>
@@ -78,8 +79,12 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, and **adv
 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>**Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br/>**Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/>**JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><br/>**C** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br/>**C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48"/><br/>**Kotlin** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </div>
 
@@ -89,8 +94,10 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, and **adv
 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br/>**React** | <img src="https://reactnative.dev/img/header_logo.svg" width="48"/><br/>**React Native** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/><br/>**Figma** |
-|:---:|:---:|:---:|
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 </div>
 
@@ -100,8 +107,12 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, and **adv
 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48"/><br/>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br/>**PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/>**MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/><br/>**Oracle** | <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="48"/><br/>**Apache Hive** |
-|:---:|:---:|:---:|:---:|:---:|
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 </div>
 
@@ -111,8 +122,12 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, and **adv
 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48"/><br/>**AWS** | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48"/><br/>**Azure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>**Git** | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/><br/>**Postman** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br/>**Linux** |
-|:---:|:---:|:---:|:---:|:---:|
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -122,8 +137,28 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, and **adv
 
 <div align="center">
 
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48"/><br/>**TensorFlow** | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48"/><br/>**PyTorch** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br/>**Scikit-Learn** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/>**Pandas** | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/><br/>**Seaborn** | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48"/><br/>**OpenCV** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-00897B?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+---
+
+### 🧰 Frameworks & Tools
+
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
 
@@ -141,7 +176,7 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, and **adv
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abheethasma&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="700"/>
+<img src="https://streak-stats.demolab.com/?user=abheethasma&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="700"/>
 
 </div>
 
@@ -157,7 +192,7 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, and **adv
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abheethasma&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=abheethasma&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" />
 
 </div>
 
