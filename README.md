@@ -1,72 +1,194 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Abheetha-Dhananjaya&fontSize=60&animation=fadeIn" alt="banner" />
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d7a,100:00d4ff&height=200&section=header&text=Abheetha%20Dhananjaya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20•%20UI%2FUX%20Designer%20•%20Data%20Administrator&descAlignY=58&descSize=18&descColor=00d4ff" />
+
 </div>
 
 <div align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/abheethasma/abheethasma/blob/main/[your-gif].gif?raw=true">
-    <img src="https://github.com/abheethasma/abheethasma/blob/main/[your-gif].gif?raw=true" width="200" style="border-radius: 50%; box-shadow: 0 0 15px #00ffcc;" />
-  </a>
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=🔍+Quality+Assurance+Engineer;🎨+UI%2FUX+Designer+%26+Prototyper;📊+Data+Administrator+%26+Analyst;🚀+Open-Source+Contributor;⚡+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abheethasma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" width="420" />
+
+### 👋 Hi, I'm Abheetha!
+
+```yaml
+name: Abheetha Dhananjaya
+location: Sri Lanka 🇱🇰
+focus:
+  - Quality Assurance
+  - UI/UX Design
+  - Data Administration
+currently_learning:
+  - Usability Testing
+  - Accessibility Design
+  - Advanced Data Visualization
+goal: Build high-quality, user-centric solutions
+open_to: Collaborations & Opportunities
+```
+
+<br clear="right"/>
+
+---
+
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 Quality Assurance
+Experienced in software testing methodologies, bug tracking, and automation tools. I ensure every product meets the highest reliability standards before it reaches users.
+
+</td>
+<td width="50%">
+
+### 🎨 UI/UX Design
+Skilled in wireframing, prototyping, and crafting user-friendly interfaces with **Figma** and **Adobe XD** — turning ideas into intuitive digital experiences.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Data Administration
+Proficient in database management, data validation, and ensuring data integrity using both SQL and NoSQL databases to keep systems accurate and reliable.
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Learning
+Expanding into **usability testing**, **accessibility design (WCAG)**, and **advanced data visualization** techniques to build more inclusive and insightful products.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>**Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br/>**Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/>**JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><br/>**C** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br/>**C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48"/><br/>**Kotlin** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+### 🌐 Frontend & Mobile
+
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br/>**React** | <img src="https://reactnative.dev/img/header_logo.svg" width="48"/><br/>**React Native** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/><br/>**Figma** |
+|:---:|:---:|:---:|
+
+</div>
+
+---
+
+### 🗄️ Databases
+
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48"/><br/>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br/>**PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/>**MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/><br/>**Oracle** | <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="48"/><br/>**Apache Hive** |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<div align="center">
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48"/><br/>**AWS** | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48"/><br/>**Azure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>**Git** | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/><br/>**Postman** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br/>**Linux** |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+### 🤖 AI / ML & Data Science
+
+<div align="center">
+
+| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48"/><br/>**TensorFlow** | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48"/><br/>**PyTorch** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br/>**Scikit-Learn** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/>**Pandas** | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/><br/>**Seaborn** | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48"/><br/>**OpenCV** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abheethasma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheethasma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="170"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github.com/abheethasma/abheethasma/blob/main/coding-animation.gif?raw=true" width="180" style="display: inline-block;">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abheethasma&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="700"/>
+
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+Developer;UI%2FUX+Enthusiast;Open-Source+Contributor;Quality+Assurance" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Abheetha Dhananjaya</h1>
+[![Abheetha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abheethasma&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">I'm a dedicated and detail-oriented professional passionate about quality assurance, user experience design, and data administration.</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abheethasma&label=Profile%20views&color=0e75b6&style=flat" alt="abheethasma" /> </p>
+---
 
-<hr>
+## 🏆 GitHub Trophies
 
-<h3 align="left">About Me:</h3>
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abheethasma&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 🚀 Tech Enthusiast
+</div>
 
-Passionate about ensuring high-quality software, designing intuitive user experiences, and managing data efficiently.
-
-## 🔍 Quality Assurance
-- Experienced in software testing methodologies, bug tracking, and automation tools to enhance software reliability.
-
-## 🎨 UI/UX Design
-- Skilled in creating user-friendly interfaces, wireframing, and prototyping using Figma and Adobe XD to enhance user engagement.
-
-## 📊 Data Administration
-- Proficient in database management, data validation, and ensuring data integrity using SQL and NoSQL databases.
-
-## 🌱 Learning
-- Expanding knowledge in usability testing, accessibility design, and advanced data visualization techniques.
+---
 
 ## 🎯 Career Goal
-Seeking an opportunity to apply my skills in quality assurance, UI/UX, and data administration to improve product performance and user satisfaction.
 
-Let’s connect and collaborate on building high-quality, user-centric solutions! 🚀
+> *"Seeking an opportunity to apply my skills in quality assurance, UI/UX, and data administration to improve product performance and user satisfaction. Let's connect and collaborate on building high-quality, user-centric solutions!"* 🚀
 
+---
 
-<hr>
+## 🤝 Connect With Me
 
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abheetha-dhananjaya-419957282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abheetha-dhananjaya-419957282" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abheethadhananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahuldkjain" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abheetha-dhananjaya-419957282/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abheethadhananjaya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abheethasma)
 
-<hr>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<hr>
+---
 
-<hr>
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=abheethasma&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="profile views" />
 
+</div>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e4d7a,100:0d1117&height=120&section=footer" />
+
+</div>
