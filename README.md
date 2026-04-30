@@ -1,5 +1,3 @@
-<img width="1440" height="532" alt="image" src="https://github.com/user-attachments/assets/4bc1e734-c704-4313-87de-86599cf27e31" /><div align="center">
-
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d7a,100:00d4ff&height=200&section=header&text=Abheetha%20Dhananjaya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20•%20UI%2FUX%20Designer%20•%20Data%20Administrator&descAlignY=58&descSize=18&descColor=00d4ff" />
 </div
