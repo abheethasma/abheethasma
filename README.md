@@ -15,7 +15,7 @@ Experienced in software testing methodologies, bug tracking, and automation tool
 <td width="50%">
 
 ### 🎨 UI/UX Design
-Skilled in wireframing, prototyping, and crafting user-friendly interfaces with **Figma** and **Adobe XD** — turning ideas into intuitive digital experiences.
+Skilled in wireframing, prototyping, and crafting user-friendly interfaces with **Figma** and **draw.io** — turning ideas into intuitive digital experiences.
 
 </td>
 </tr>
@@ -76,7 +76,6 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, **MobileN
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 </div>
 
@@ -148,7 +147,7 @@ Expanding into **usability testing**, **accessibility design (WCAG)**, **MobileN
 
 ## 🎯 Career Goal
 
-> *"Seeking an opportunity to apply my skills in quality assurance, UI/UX, and data administration to improve product performance and user satisfaction. Let's connect and collaborate on building high-quality, user-centric solutions!"* 🚀
+> *"Seeking an opportunity to apply my skills in quality assurance to improve product performance and user satisfaction. Let's connect and collaborate on building high-quality, user-centric solutions!"* 🚀
 
 ---
 
