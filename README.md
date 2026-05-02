@@ -1,11 +1,97 @@
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d7a,100:00d4ff&height=200&section=header&text=Abheetha%20Dhananjaya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20•%20UI%2FUX%20Designer%20•%20Data%20Administrator&descAlignY=58&descSize=18&descColor=00d4ff" />
-</div
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <clipPath id="clip"><rect width="800" height="240" rx="14"/></clipPath>
+  <pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#00d2ff" stroke-width="0.4" stroke-opacity="0.07"/>
+  </pattern>
+  <linearGradient id="ng" x1="40" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#00d4ff"/>
+    <stop offset="100%" stop-color="#00ffb3"/>
+  </linearGradient>
+  <style>
+    .tag { font: 700 10px 'Courier New',monospace; fill:#00d4ff; letter-spacing:2.5px }
+    .n1  { font: 900 46px Arial,sans-serif; fill:#ffffff }
+    .n2  { font: 900 46px Arial,sans-serif; fill:url(#ng) }
+    .rl  { font: 400 13px 'Courier New',monospace; fill:#7a9bb5 }
+    .pt  { font: 700 9px 'Courier New',monospace; letter-spacing:1px }
+    .mt  { font: 400 9px 'Courier New',monospace; fill:rgba(0,212,255,0.4); text-anchor:end; letter-spacing:1.5px }
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=620&lines=🔍+Quality+Assurance+Engineer;🎨+UI%2FUX+Designer+%26+Prototyper;📊+Data+Administrator+%26+Analyst;🚀+Open-Source+Contributor;⚡+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+    @keyframes r1 { 0%{opacity:0} 4%{opacity:1} 21%{opacity:1} 25%{opacity:0} 100%{opacity:0} }
+    @keyframes r2 { 0%,25%{opacity:0} 29%{opacity:1} 46%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+    @keyframes r3 { 0%,50%{opacity:0} 54%{opacity:1} 71%{opacity:1} 75%{opacity:0} 100%{opacity:0} }
+    @keyframes r4 { 0%,75%{opacity:0} 79%{opacity:1} 96%{opacity:1} 100%{opacity:0} }
+    .r1 { animation:r1 12s ease-in-out infinite }
+    .r2 { animation:r2 12s ease-in-out infinite; opacity:0 }
+    .r3 { animation:r3 12s ease-in-out infinite; opacity:0 }
+    .r4 { animation:r4 12s ease-in-out infinite; opacity:0 }
 
-</div>
+    @keyframes fi { from{opacity:0} to{opacity:1} }
+    .a0 { animation:fi 0.7s ease forwards 0.2s; opacity:0 }
+    .a1 { animation:fi 0.7s ease forwards 0.5s; opacity:0 }
+    .a2 { animation:fi 0.7s ease forwards 0.8s; opacity:0 }
+    .a3 { animation:fi 0.7s ease forwards 1.0s; opacity:0 }
+    .a4 { animation:fi 0.7s ease forwards 1.2s; opacity:0 }
+    .a5 { animation:fi 0.7s ease forwards 1.4s; opacity:0 }
+    .a6 { animation:fi 0.7s ease forwards 1.6s; opacity:0 }
+    .a7 { animation:fi 0.7s ease forwards 1.8s; opacity:0 }
+
+    @keyframes gp { 0%,100%{opacity:0.6} 50%{opacity:1} }
+    .gw1 { animation:gp 4s ease-in-out infinite }
+    .gw2 { animation:gp 5s ease-in-out infinite reverse }
+
+    @keyframes dp { 0%,100%{opacity:0.25} 50%{opacity:1} }
+    .d1 { animation:dp 2s ease-in-out infinite }
+    .d2 { animation:dp 2s ease-in-out infinite 0.4s; opacity:0.25 }
+    .d3 { animation:dp 2s ease-in-out infinite 0.8s; opacity:0.25 }
+  </style>
+</defs>
+
+<g clip-path="url(#clip)">
+  <rect width="800" height="240" fill="#060c1a"/>
+  <rect width="800" height="240" fill="url(#gr)"/>
+  <ellipse class="gw1" cx="-10" cy="-10" rx="310" ry="260" fill="#00b4ff" fill-opacity="0.11"/>
+  <ellipse class="gw2" cx="820" cy="255" rx="270" ry="210" fill="#00ffb3" fill-opacity="0.08"/>
+
+  <text class="mt a0" x="762" y="34">v2.0 — 2025</text>
+  <text class="mt a0" x="762" y="50">SRI LANKA</text>
+
+  <g class="a1">
+    <line x1="40" y1="44" x2="62" y2="44" stroke="#00d4ff" stroke-width="1"/>
+    <text class="tag" x="70" y="49">PORTFOLIO · OPEN TO WORK</text>
+  </g>
+
+  <text class="n1 a2" x="40" y="107">Abheetha</text>
+  <text class="n2 a3" x="40" y="155">Dhananjaya</text>
+
+  <g class="a4">
+    <text class="rl r1" x="40" y="178">QA Engineer</text>
+    <text class="rl r2" x="40" y="178">UI/UX Designer</text>
+    <text class="rl r3" x="40" y="178">Data Administrator</text>
+    <text class="rl r4" x="40" y="178">Bug Hunter</text>
+  </g>
+
+  <g class="a5">
+    <rect x="40" y="194" width="118" height="22" rx="11" fill="#00d4ff" fill-opacity="0.07" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text class="pt" x="99" y="209" fill="#00d4ff" text-anchor="middle">QA ENGINEERING</text>
+  </g>
+  <g class="a6">
+    <rect x="166" y="194" width="106" height="22" rx="11" fill="#00ffb3" fill-opacity="0.07" stroke="#00ffb3" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text class="pt" x="219" y="209" fill="#00ffb3" text-anchor="middle">UI/UX DESIGN</text>
+  </g>
+  <g class="a7">
+    <rect x="280" y="194" width="148" height="22" rx="11" fill="#a78bff" fill-opacity="0.07" stroke="#a78bff" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text class="pt" x="354" y="209" fill="#a78bff" text-anchor="middle">DATA ADMINISTRATION</text>
+  </g>
+  <g class="a7">
+    <rect x="436" y="194" width="138" height="22" rx="11" fill="#ff8c6b" fill-opacity="0.07" stroke="#ff8c6b" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text class="pt" x="505" y="209" fill="#ff8c6b" text-anchor="middle">QUALITY ASSURANCE</text>
+  </g>
+
+  <circle class="d1" cx="748" cy="207" r="4" fill="#00d4ff"/>
+  <circle class="d2" cx="760" cy="207" r="4" fill="#00ffb3"/>
+  <circle class="d3" cx="772" cy="207" r="4" fill="#a78bff"/>
+</g>
+</svg>
 
 ---
 
