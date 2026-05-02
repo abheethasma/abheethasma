@@ -15,7 +15,7 @@ Experienced in software testing methodologies, bug tracking, and automation tool
 <td width="50%">
 
 ### 🎨 UI/UX Design
-Skilled in wireframing, prototyping, and crafting user-friendly interfaces with **Figma** and **draw.io** — turning ideas into intuitive digital experiences.
+Skilled in wireframing, prototyping, and crafting user-friendly interfaces with **Figma**, **Canva** and **draw.io** — turning ideas into intuitive digital experiences.
 
 </td>
 </tr>
