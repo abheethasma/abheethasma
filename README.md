@@ -4,92 +4,147 @@
   <pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse">
     <path d="M32 0H0V32" fill="none" stroke="#00d2ff" stroke-width="0.4" stroke-opacity="0.07"/>
   </pattern>
-  <linearGradient id="ng" x1="40" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+  <linearGradient id="ng" x1="40" y1="0" x2="440" y2="0" gradientUnits="userSpaceOnUse">
     <stop offset="0%" stop-color="#00d4ff"/>
     <stop offset="100%" stop-color="#00ffb3"/>
   </linearGradient>
-  <style>
-    .tag { font: 700 10px 'Courier New',monospace; fill:#00d4ff; letter-spacing:2.5px }
-    .n1  { font: 900 46px Arial,sans-serif; fill:#ffffff }
-    .n2  { font: 900 46px Arial,sans-serif; fill:url(#ng) }
-    .rl  { font: 400 13px 'Courier New',monospace; fill:#7a9bb5 }
-    .pt  { font: 700 9px 'Courier New',monospace; letter-spacing:1px }
-    .mt  { font: 400 9px 'Courier New',monospace; fill:rgba(0,212,255,0.4); text-anchor:end; letter-spacing:1.5px }
-
-    @keyframes r1 { 0%{opacity:0} 4%{opacity:1} 21%{opacity:1} 25%{opacity:0} 100%{opacity:0} }
-    @keyframes r2 { 0%,25%{opacity:0} 29%{opacity:1} 46%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
-    @keyframes r3 { 0%,50%{opacity:0} 54%{opacity:1} 71%{opacity:1} 75%{opacity:0} 100%{opacity:0} }
-    @keyframes r4 { 0%,75%{opacity:0} 79%{opacity:1} 96%{opacity:1} 100%{opacity:0} }
-    .r1 { animation:r1 12s ease-in-out infinite }
-    .r2 { animation:r2 12s ease-in-out infinite; opacity:0 }
-    .r3 { animation:r3 12s ease-in-out infinite; opacity:0 }
-    .r4 { animation:r4 12s ease-in-out infinite; opacity:0 }
-
-    @keyframes fi { from{opacity:0} to{opacity:1} }
-    .a0 { animation:fi 0.7s ease forwards 0.2s; opacity:0 }
-    .a1 { animation:fi 0.7s ease forwards 0.5s; opacity:0 }
-    .a2 { animation:fi 0.7s ease forwards 0.8s; opacity:0 }
-    .a3 { animation:fi 0.7s ease forwards 1.0s; opacity:0 }
-    .a4 { animation:fi 0.7s ease forwards 1.2s; opacity:0 }
-    .a5 { animation:fi 0.7s ease forwards 1.4s; opacity:0 }
-    .a6 { animation:fi 0.7s ease forwards 1.6s; opacity:0 }
-    .a7 { animation:fi 0.7s ease forwards 1.8s; opacity:0 }
-
-    @keyframes gp { 0%,100%{opacity:0.6} 50%{opacity:1} }
-    .gw1 { animation:gp 4s ease-in-out infinite }
-    .gw2 { animation:gp 5s ease-in-out infinite reverse }
-
-    @keyframes dp { 0%,100%{opacity:0.25} 50%{opacity:1} }
-    .d1 { animation:dp 2s ease-in-out infinite }
-    .d2 { animation:dp 2s ease-in-out infinite 0.4s; opacity:0.25 }
-    .d3 { animation:dp 2s ease-in-out infinite 0.8s; opacity:0.25 }
-  </style>
 </defs>
 
 <g clip-path="url(#clip)">
+
+  <!-- Background -->
   <rect width="800" height="240" fill="#060c1a"/>
+  <!-- Grid overlay -->
   <rect width="800" height="240" fill="url(#gr)"/>
-  <ellipse class="gw1" cx="-10" cy="-10" rx="310" ry="260" fill="#00b4ff" fill-opacity="0.11"/>
-  <ellipse class="gw2" cx="820" cy="255" rx="270" ry="210" fill="#00ffb3" fill-opacity="0.08"/>
 
-  <text class="mt a0" x="762" y="34">v2.0 — 2025</text>
-  <text class="mt a0" x="762" y="50">SRI LANKA</text>
+  <!-- Glow orb top-left -->
+  <ellipse cx="-10" cy="-10" rx="310" ry="260" fill="#00b4ff" fill-opacity="0.10">
+    <animate attributeName="fill-opacity" values="0.07;0.14;0.07" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
 
-  <g class="a1">
+  <!-- Glow orb bottom-right -->
+  <ellipse cx="820" cy="255" rx="270" ry="210" fill="#00ffb3" fill-opacity="0.07">
+    <animate attributeName="fill-opacity" values="0.04;0.10;0.04" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- ═══ META (top right) ═══ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.7s" fill="freeze"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="9" fill="#00d4ff" fill-opacity="0.4"
+          text-anchor="end" letter-spacing="1.5" x="762" y="34">v2.0 — 2025</text>
+    <text font-family="'Courier New',Courier,monospace" font-size="9" fill="#00d4ff" fill-opacity="0.4"
+          text-anchor="end" letter-spacing="1.5" x="762" y="50">SRI LANKA</text>
+  </g>
+
+  <!-- ═══ TAG LINE ═══ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.7s" fill="freeze"/>
     <line x1="40" y1="44" x2="62" y2="44" stroke="#00d4ff" stroke-width="1"/>
-    <text class="tag" x="70" y="49">PORTFOLIO · OPEN TO WORK</text>
+    <text font-family="'Courier New',Courier,monospace" font-size="10" font-weight="700"
+          fill="#00d4ff" letter-spacing="2.5" x="70" y="49">PORTFOLIO · OPEN TO WORK</text>
   </g>
 
-  <text class="n1 a2" x="40" y="107">Abheetha</text>
-  <text class="n2 a3" x="40" y="155">Dhananjaya</text>
+  <!-- ═══ NAME: Abheetha ═══ -->
+  <text font-family="Arial,'Helvetica Neue',Helvetica,sans-serif" font-size="46" font-weight="900"
+        fill="#ffffff" x="40" y="107" opacity="0">
+    Abheetha
+    <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.6s" fill="freeze"/>
+  </text>
 
-  <g class="a4">
-    <text class="rl r1" x="40" y="178">QA Engineer</text>
-    <text class="rl r2" x="40" y="178">UI/UX Designer</text>
-    <text class="rl r3" x="40" y="178">Data Administrator</text>
-    <text class="rl r4" x="40" y="178">Bug Hunter</text>
+  <!-- ═══ NAME: Dhananjaya (gradient) ═══ -->
+  <text font-family="Arial,'Helvetica Neue',Helvetica,sans-serif" font-size="46" font-weight="900"
+        fill="url(#ng)" x="40" y="155" opacity="0">
+    Dhananjaya
+    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.6s" fill="freeze"/>
+  </text>
+
+  <!-- ═══ ROLE CYCLING TEXT ═══ -->
+  <!-- Role 1: QA Engineer  (0s – 3s) -->
+  <text font-family="'Courier New',Courier,monospace" font-size="13" fill="#7a9bb5" x="40" y="178" opacity="1">
+    QA Engineer
+    <animate attributeName="opacity"
+      values="1;1;0;0"
+      keyTimes="0;0.208;0.25;1"
+      dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 2: UI/UX Designer  (3s – 6s) -->
+  <text font-family="'Courier New',Courier,monospace" font-size="13" fill="#7a9bb5" x="40" y="178" opacity="0">
+    UI/UX Designer
+    <animate attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.25;0.292;0.458;0.5;1"
+      dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 3: Data Administrator  (6s – 9s) -->
+  <text font-family="'Courier New',Courier,monospace" font-size="13" fill="#7a9bb5" x="40" y="178" opacity="0">
+    Data Administrator
+    <animate attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.5;0.542;0.708;0.75;1"
+      dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Role 4: Bug Hunter  (9s – 12s) -->
+  <text font-family="'Courier New',Courier,monospace" font-size="13" fill="#7a9bb5" x="40" y="178" opacity="0">
+    Bug Hunter
+    <animate attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.75;0.792;0.958;1"
+      dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- ═══ PILL 1: QA Engineering (cyan) ═══ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.6s" fill="freeze"/>
+    <rect x="40" y="194" width="118" height="22" rx="11"
+          fill="#00d4ff" fill-opacity="0.07" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="9" font-weight="700"
+          letter-spacing="1" fill="#00d4ff" text-anchor="middle" x="99" y="209">QA ENGINEERING</text>
   </g>
 
-  <g class="a5">
-    <rect x="40" y="194" width="118" height="22" rx="11" fill="#00d4ff" fill-opacity="0.07" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.4"/>
-    <text class="pt" x="99" y="209" fill="#00d4ff" text-anchor="middle">QA ENGINEERING</text>
-  </g>
-  <g class="a6">
-    <rect x="166" y="194" width="106" height="22" rx="11" fill="#00ffb3" fill-opacity="0.07" stroke="#00ffb3" stroke-width="0.8" stroke-opacity="0.4"/>
-    <text class="pt" x="219" y="209" fill="#00ffb3" text-anchor="middle">UI/UX DESIGN</text>
-  </g>
-  <g class="a7">
-    <rect x="280" y="194" width="148" height="22" rx="11" fill="#a78bff" fill-opacity="0.07" stroke="#a78bff" stroke-width="0.8" stroke-opacity="0.4"/>
-    <text class="pt" x="354" y="209" fill="#a78bff" text-anchor="middle">DATA ADMINISTRATION</text>
-  </g>
-  <g class="a7">
-    <rect x="436" y="194" width="138" height="22" rx="11" fill="#ff8c6b" fill-opacity="0.07" stroke="#ff8c6b" stroke-width="0.8" stroke-opacity="0.4"/>
-    <text class="pt" x="505" y="209" fill="#ff8c6b" text-anchor="middle">QUALITY ASSURANCE</text>
+  <!-- ═══ PILL 2: UI/UX Design (green) ═══ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.6s" fill="freeze"/>
+    <rect x="166" y="194" width="106" height="22" rx="11"
+          fill="#00ffb3" fill-opacity="0.07" stroke="#00ffb3" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="9" font-weight="700"
+          letter-spacing="1" fill="#00ffb3" text-anchor="middle" x="219" y="209">UI/UX DESIGN</text>
   </g>
 
-  <circle class="d1" cx="748" cy="207" r="4" fill="#00d4ff"/>
-  <circle class="d2" cx="760" cy="207" r="4" fill="#00ffb3"/>
-  <circle class="d3" cx="772" cy="207" r="4" fill="#a78bff"/>
+  <!-- ═══ PILL 3: Data Administration (purple) ═══ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.6s" fill="freeze"/>
+    <rect x="280" y="194" width="148" height="22" rx="11"
+          fill="#a78bff" fill-opacity="0.07" stroke="#a78bff" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="9" font-weight="700"
+          letter-spacing="1" fill="#a78bff" text-anchor="middle" x="354" y="209">DATA ADMINISTRATION</text>
+  </g>
+
+  <!-- ═══ PILL 4: Quality Assurance (orange) ═══ -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.6s" fill="freeze"/>
+    <rect x="436" y="194" width="138" height="22" rx="11"
+          fill="#ff8c6b" fill-opacity="0.07" stroke="#ff8c6b" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text font-family="'Courier New',Courier,monospace" font-size="9" font-weight="700"
+          letter-spacing="1" fill="#ff8c6b" text-anchor="middle" x="505" y="209">QUALITY ASSURANCE</text>
+  </g>
+
+  <!-- ═══ ANIMATED DOTS ═══ -->
+  <circle cx="748" cy="207" r="3.5" fill="#00d4ff" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3.5;4.5;3.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="207" r="3.5" fill="#00ffb3" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3.5;4.5;3.5" dur="2s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="772" cy="207" r="3.5" fill="#a78bff" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3.5;4.5;3.5" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+
 </g>
 </svg>
 
